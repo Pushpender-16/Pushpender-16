@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Pushpender Shekhawat
 
 🚀Full-Stack Developer 
+🚀Mern-Stack Developer 
+🚀Java Developer 
 
 ---
 
